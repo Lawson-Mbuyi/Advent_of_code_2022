@@ -1,4 +1,4 @@
-snacks = open('dataset.txt',"r")
+snacks = open('inputs.txt',"r")
 def compute_elf_calory(snacks):
     calories=[]
     current_elf=[]
